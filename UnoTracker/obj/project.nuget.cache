@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZRJJsED7LZ+pfvfs1eDeZmcbyKFn2gCFzyDOKQ0RGd6R8uPrFb5H7MGuM5TgVpsy0pKih6c/lK7IldPSYyyIrg==",
+  "success": true,
+  "projectFilePath": "/home/ramon/Projetos/Aprenendo Blazor/UnoTracker/UnoTracker.csproj",
+  "expectedPackageFiles": [
+    "/home/ramon/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.36/microsoft.netcore.app.host.linux-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
